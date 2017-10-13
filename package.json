@@ -18,7 +18,7 @@
         "focus"
     ],
     "dependencies": {
-        "react-native-root-siblings": "^1.2.1",
+        "react-native-root-siblings": "git+https://github.com/RoarRain/react-native-root-siblings.git",
         "prop-types": "^15.5.10"
     }
 }
